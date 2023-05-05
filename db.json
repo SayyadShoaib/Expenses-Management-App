@@ -1,0 +1,116 @@
+{
+  "sign": [
+    {
+      "name": "Shoaib sayyad",
+      "email": "shoaibsayyad145@gmail.com",
+      "pass": "Shoaib@7",
+      "id": 2
+    },
+    {
+      "name": "Sohail",
+      "email": "Sohail@gmail.com",
+      "pass": "Sohail@&",
+      "id": 3
+    },
+    {
+      "name": "Ameer",
+      "email": "Ameer@gmail.com",
+      "pass": "Ameer@7",
+      "id": 4
+    },
+    {
+      "name": "Santosh",
+      "email": "santosh@gmail.com",
+      "pass": "santosh@7",
+      "id": 5
+    },
+    {
+      "name": "Ramesh",
+      "email": "ramesh@gmail.com",
+      "pass": "ramesh@7",
+      "id": 6
+    }
+  ],
+  "data": [
+    {
+      "LoggedUser": "Ameer@gmail.com",
+      "date": "2023-04-24",
+      "type": "Income",
+      "source": "Salary",
+      "Amount": 1000,
+      "id": 1
+    },
+    {
+      "LoggedUser": "Ameer@gmail.com",
+      "type": "Expenses",
+      "date": "2023-04-24",
+      "source": "Food & Drinks",
+      "Amount": -100,
+      "id": 2
+    },
+    {
+      "LoggedUser": "Ameer@gmail.com",
+      "type": "Expenses",
+      "date": "2023-04-24",
+      "source": "Shopping",
+      "Amount": -200,
+      "id": 3
+    },
+    {
+      "LoggedUser": "Ameer@gmail.com",
+      "type": "Expenses",
+      "date": "2023-04-24",
+      "source": "Shopping",
+      "Amount": -200,
+      "id": 4
+    },
+    {
+      "LoggedUser": "Ameer@gmail.com",
+      "type": "Expenses",
+      "date": "2023-04-23",
+      "source": "Bills",
+      "Amount": -600,
+      "id": 5
+    },
+    {
+      "LoggedUser": "shoaibsayyad145@gmail.com",
+      "date": "2023-04-23",
+      "type": "Income",
+      "source": "Salary",
+      "Amount": 20000,
+      "id": 6
+    },
+    {
+      "LoggedUser": "shoaibsayyad145@gmail.com",
+      "type": "Expenses",
+      "date": "2023-04-24",
+      "source": "Food & Drinks",
+      "Amount": -500,
+      "id": 7
+    },
+    {
+      "LoggedUser": "shoaibsayyad145@gmail.com",
+      "type": "Expenses",
+      "date": "2023-04-25",
+      "source": "Housing",
+      "Amount": -2000,
+      "id": 8
+    },
+    {
+      "LoggedUser": "shoaibsayyad145@gmail.com",
+      "date": "2023-05-04",
+      "type": "Income",
+      "source": "Salary",
+      "Amount": 15000,
+      "id": 9
+    },
+    {
+      "LoggedUser": "shoaibsayyad145@gmail.com",
+      "type": "Expenses",
+      "date": "2023-05-05",
+      "source": "Housing",
+      "Amount": -2100,
+      "id": 10
+    }
+  ]
+}

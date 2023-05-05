@@ -1,0 +1,18 @@
+.Parent {
+  width: 40%;
+  margin: 10px auto;
+  display: flex;
+  justify-content: space-around;
+}
+form {
+  width: 100%;
+  margin: -10px 0;
+}
+select {
+  width: 200px;
+  padding: 0 10px;
+  margin: 3px 0;
+}
+input {
+  width: 185px;
+}

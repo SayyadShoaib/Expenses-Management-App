@@ -1,0 +1,24 @@
+.child-box {
+  margin: 10px;
+  padding: 15px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  width: 80%;
+  margin: auto;
+}
+.child-box p {
+  margin: -0.5px 0;
+  text-align: left;
+}
+.child-box2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+img {
+  width: 20%;
+  margin: auto;
+}
