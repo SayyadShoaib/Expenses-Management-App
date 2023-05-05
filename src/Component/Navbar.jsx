@@ -14,12 +14,6 @@ function Navbar() {
     return store.Issing;
   });
 
-  if (login) {
-  }
-  // const loggedInUsername = useSelector((store) => {
-  //   return store.login[0].name;
-  // });
-
   return (
     <>
       <nav>
@@ -62,7 +56,7 @@ function Navbar() {
             </div>
           )}
 
-          {sign ? (
+          {/* {sign ? (
             ""
           ) : (
             <div>
@@ -70,7 +64,7 @@ function Navbar() {
                 Signup
               </Link>
             </div>
-          )}
+          )} */}
         </div>
       </nav>
     </>

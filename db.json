@@ -29,6 +29,12 @@
       "email": "ramesh@gmail.com",
       "pass": "ramesh@7",
       "id": 6
+    },
+    {
+      "name": "Parveen kadegaon",
+      "email": "parveenkadegaon@gmail.com",
+      "pass": "Parveen@7",
+      "id": 7
     }
   ],
   "data": [
