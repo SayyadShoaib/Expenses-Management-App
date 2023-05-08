@@ -117,6 +117,38 @@
       "source": "Housing",
       "Amount": -2100,
       "id": 10
+    },
+    {
+      "LoggedUser": "shoaibsayyad145@gmail.com",
+      "date": "2023-05-08",
+      "type": "Income",
+      "source": "Gifts",
+      "Amount": 2500,
+      "id": 11
+    },
+    {
+      "LoggedUser": "shoaibsayyad145@gmail.com",
+      "date": "2023-05-08",
+      "type": "Income",
+      "source": "Refunds",
+      "Amount": 2000,
+      "id": 12
+    },
+    {
+      "LoggedUser": "shoaibsayyad145@gmail.com",
+      "date": "2023-05-08",
+      "type": "Income",
+      "source": "Other",
+      "Amount": 1000,
+      "id": 13
+    },
+    {
+      "LoggedUser": "shoaibsayyad145@gmail.com",
+      "type": "Expenses",
+      "date": "2023-05-08",
+      "source": "Food & Drinks",
+      "Amount": -500,
+      "id": 14
     }
   ]
 }

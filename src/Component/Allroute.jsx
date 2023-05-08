@@ -24,8 +24,12 @@ function Allroute() {
         ) : (
           <Route path="/history" element={<Notlogin />} />
         )}
+        {login ? (
+          <Route path="/analytic" element={<Analytics />} />
+        ) : (
+          <Route path="/analytic" element={<Notlogin />} />
+        )}
 
-        <Route path="/analytic" element={<Analytics />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Singup />} />
         <Route path="/logout" element={<Logout />} />
